@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Dependency Inversion Principle/Dependency Inversion Principle.csproj" />
+  <Project Path="Interface Segregation Principle/Liskov Substitution Principle.csproj" />
+  <Project Path="Liskov Substitution Principle/Interface Segregation Principle.csproj" />
+  <Project Path="Open Closed Principle/Open Closed Principle.csproj" />
+  <Project Path="Single Responsibility Principle/Single Responsibility Principle.csproj" />
+  <Project Path="SOLID Principles/SOLID Principles.csproj" />
+</Solution>
